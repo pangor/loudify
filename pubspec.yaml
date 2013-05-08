@@ -1,0 +1,7 @@
+name: loudify
+description: Make your text LOUD.
+author: Seth Ladd <sethladd@gmail.com>
+homepage: http://pub.dartlang.org/packages/loudify
+version: 0.0.1
+dependencies:
+  shoutify: any
